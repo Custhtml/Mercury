@@ -1,0 +1,81 @@
+Ciao a tutti! Sono Antonio D'Amico, uno dei creatori di Mercury Documents. Oggi vi spiegherò come stiamo rivoluzionando la gestione dei documenti commerciali, in particolare quelli di trasporto, grazie alla potenza di Solana.
+
+Immagina un mondo in cui ogni documento di trasporto ha una sua identità digitale unica e immutabile, come un'impronta digitale. Questo è ciò che offriamo con Mercury Documents.
+
+Utilizzando la tecnologia degli NFT su Solana, creiamo una traccia indelebile di ogni passaggio del documento, dal mittente al vettore fino al destinatario finale. Ogni transazione sulla blockchain di Solana diventa un sigillo di autenticità, garantendo la massima trasparenza e sicurezza.
+
+Come funziona? Utilizziamo la blockchain di Solana per registrare ogni passaggio di un documento, dal momento della sua emissione fino alla consegna finale. È come avere un libro mastro digitale che registra ogni transazione in modo trasparente e immutabile.
+
+Inoltre, sfruttiamo la struttura degli account Solana per creare un sistema di tracciamento ancora più dettagliato. Ogni passaggio del documento viene registrato in una serie di transazioni, creando una catena di custodia digitale completa.
+
+Opzione 1: NFT e tracciabilità completa
+Descrizione migliorata:
+
+"Il primo metodo è il più intuitivo: si parte dal documento di trasporto cartaceo tradizionale. Grazie a un server di stampa, questo documento viene convertito in un file PDF. Questo PDF diventa quindi la base per creare un NFT unico e immutabile sulla blockchain di Solana.
+
+Immagina l'NFT come una sorta di "sigillo digitale" che accompagna il documento in ogni sua fase. Ogni volta che il documento passa da un vettore all'altro, viene registrata una nuova transazione sulla blockchain, creando una catena di custodia inalterabile. Questo garantisce la massima trasparenza e sicurezza, e rende impossibile manomettere o falsificare le informazioni."
+
+Vantaggi:
+
+Tracciabilità completa: Ogni passaggio del documento è registrato sulla blockchain.
+Sicurezza: L'NFT rende il documento immutabile e difficile da falsificare.
+Trasparenza: Tutti i partecipanti possono verificare l'autenticità del documento in qualsiasi momento.
+Opzione 2: Hashrate e cloud storage
+Descrizione migliorata:
+
+"Nel secondo metodo, utilizziamo un approccio più leggero. Il documento cartaceo viene scannerizzato e salvato come PDF su un cloud. Da questo PDF viene calcolato un hashrate, una sorta di "impronta digitale" unica.
+
+Questo hashrate, insieme al link al file sul cloud, viene inserito come messaggio all'interno di una transazione sulla blockchain di Solana. In questo modo, colleghiamo il documento digitale al mondo fisico.
+
+Per verificare l'autenticità del documento, basta ricalcolare l'hashrate del PDF scaricato dal cloud e confrontarlo con quello registrato sulla blockchain. Se i due valori coincidono, significa che il documento è autentico e non è stato modificato."
+
+Vantaggi:
+
+Semplicità: Il processo è relativamente semplice e non richiede la creazione di NFT complessi.
+Flessibilità: Si può utilizzare qualsiasi tipo di cloud storage.
+Costo: Potrebbe essere una soluzione più economica rispetto alla creazione di NFT.
+
+Seguteci su www.mercurydocuments.it
+
+Grazie per la visione.
+
+Hi everyone! I'm Antonio D'Amico, one of the creators of Mercury Documents. Today I will explain to you how we are revolutionizing the management of commercial documents, in particular transport documents, thanks to the power of Solana.
+
+Imagine a world where every transportation document has its own unique and immutable digital identity, like a fingerprint. This is what we offer with Mercury Documents.
+
+Using NFT technology on Solana, we create an indelible trace of every step of the document, from sender to carrier to final recipient. Every transaction on the Solana blockchain becomes a seal of authenticity, ensuring maximum transparency and security.
+
+How does it work? We use the Solana blockchain to record every step of a document, from the moment of its issuance to final delivery. It's like having a digital ledger that records every transaction transparently and immutably.
+
+Additionally, we leverage the Solana account structure to create an even more detailed tracking system. Each document step is recorded in a series of transactions, creating a complete digital chain of custody.
+
+Option 1: NFT and full tracking
+Improved Description:
+
+"The first method is the most intuitive: we start from the traditional paper transport document. Thanks to a print server, this document is converted into a PDF file. This PDF then becomes the basis for creating a unique and immutable NFT on the blockchain Solana.
+
+Imagine the NFT as a sort of "digital seal" that accompanies the document at every stage. Every time the document passes from one carrier to another, a new transaction is recorded on the blockchain, creating an unalterable chain of custody. This guarantees maximum transparency and security, and makes it impossible to tamper with or falsify information."
+
+Advantages:
+
+Complete traceability: Every step of the document is recorded on the blockchain.
+Security: NFT makes the document immutable and difficult to forge.
+Transparency: All participants can verify the authenticity of the document at any time.
+Option 2: Hashrate and cloud storage
+Improved Description:
+
+"In the second method, we use a lighter approach. The paper document is scanned and saved as a PDF on a cloud. From this PDF, a hashrate is calculated, a kind of unique "digital fingerprint".
+
+This hashrate, along with the link to the cloud file, is inserted as a message within a transaction on the Solana blockchain. In this way, we connect the digital document to the physical world.
+
+To verify the authenticity of the document, simply recalculate the hashrate of the PDF downloaded from the cloud and compare it with the one recorded on the blockchain. If the two values ​​match, it means that the document is authentic and has not been modified."
+
+Advantages:
+
+Simplicity: The process is relatively simple and does not require the creation of complex NFTs.
+Flexibility: You can use any type of cloud storage.
+Cost: This could be a cheaper solution than creating NFTs.
+
+Follow us on www.mercurydocuments.it
+
+Thanks for watching.
